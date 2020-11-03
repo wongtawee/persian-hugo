@@ -1,10 +1,11 @@
 baseURL = "Autmaster"
 disqusShortname = ""
+draft = true
 languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 theme = "persian"
-title = "Persian"
+title = "Witchaya Thane"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
