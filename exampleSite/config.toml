@@ -8,25 +8,25 @@ title = "Persian"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "categories/nature/"
-name = "Category"
-weight = 3
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 4
 [[menu.main]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 5
+URL = "categories/nature/"
+name = "fuck"
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
