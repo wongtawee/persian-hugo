@@ -1,6 +1,5 @@
 ---
-title: I'm a Freelance Interactive Art Director Based In France. Focusing Accross
-  Branding And Identity
+title: youngAUT  mather fucker
 image: images/111.jpg
 description: youngAUT  mather fucker
 
