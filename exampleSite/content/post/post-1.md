@@ -1,14 +1,11 @@
 ---
-title: Building an interface between people and nature
+title: สะดวก สะบาย ใจกลางเมืองภูเก็ต
 date: 2020-05-12T12:14:34.000+06:00
 image: "/images/city1.jpg"
 author: John Doe
 description: This is meta description.
-categories:
-- Green Tree
-tags:
-- green
-- tree
+categories: []
+tags: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
