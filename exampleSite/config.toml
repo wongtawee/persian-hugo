@@ -13,7 +13,7 @@ name = "คอนโดมิเนียม"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "ติดต่อ"
+name = "ติดต่อเรา"
 weight = 5
 [[menu.main]]
 URL = "categories/nature/"
