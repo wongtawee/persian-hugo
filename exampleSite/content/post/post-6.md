@@ -1,5 +1,5 @@
 ---
-title: สะดวก สะบาย ใจกลางเมืองภูเก็ต
+title: สะดวก สบาย ใจกลางเมืองภูเก็ต
 date: 2019-05-12T12:14:34.000+06:00
 image: images/post/post-4.jpg
 author: John Doe
