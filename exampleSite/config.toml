@@ -9,20 +9,23 @@ title = "Witchaya Thane"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "คอนโดมิเนียม"
+weight = 2
+[[menu.main]]
 URL = "contact"
-name = "Contact"
-weight = 4
+name = "ติดต่อ"
+weight = 5
 [[menu.main]]
 URL = "categories/nature/"
-name = "Category"
+name = "บ้าน"
 weight = 3
 [[menu.main]]
 URL = "about"
-name = "About"
-weight = 2
+name = "เกี่ยวกับ"
+weight = 4
 [[menu.main]]
 URL = "/"
-name = "Home"
+name = "หน้าหลัก"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
