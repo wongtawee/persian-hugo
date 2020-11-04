@@ -1,49 +1,42 @@
 ---
-title: "Why The Giving Tree Makes You Cry"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-5.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["Tree"]
-tags: ["tree", "nice"]
-draft: false
+title: Metro Luxe Rose Gold Phahol-Suttisan
+date: 2019-05-12T12:14:34.000+06:00
+image: "/images/f1.jpg"
+author: John Doe
+description: This is meta description.
+categories:
+- Tree
+tags:
+- tree
+- nice
+
 ---
+#### รายละเอียดห้อง
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+![](/images/f2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Metro Luxe Rose Gold Phahol-Suttisan Type 1 Bedroom ตกแต่งเฟอร์นิเจอร์สไตล์ Classy Urban ขนาดพื้นที่ 35 ตร.ม. เฟอร์นิเจอร์ในห้องประกอบไปด้วย ชุดผนังเตียง, ผนังหลังโซฟา , ตู้เสื้อผ้า , ชุดวางทีวี , โซฟา ,โต๊ะทำงาน, โต๊ะอาหาร , เก้าอี้ , ตู้รองเท้า ของตกแต่งในห้อง มี ผ้าม่าน ,วอลล์เปเปอร์ ไอเดียในการตกแต่งคอนโด เป็นการจัดวางเฟอร์นิเจอร์เพื่อใช้งานได้คุ้มค่าสมดุลกับขนาดพื้นที่ สนใจตกแต่งคอนโด Condo Solutions ติดต่อที่ Line @witchaya
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+<br><br>
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+#### รายละเอียดโครงการ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+โครงการ                Metro Luxe Rose Gold Phahol-Suttisan
+
+บริษัทอสังหาฯ        พร็อพเพอร์ตี้ เพอร์เฟค
+
+สถานที่                  กรุงเทพฯ ชั้นใน
+
+สไตล์                     โมเดิร์น คลาสสิก
+
+ประเภทห้อง            1 ห้องนอน
+
+ขนาดพื้นที่               26-35 ตร.ม.
+
+ราคาตกแต่ง             5,500 บาท ต่อ ตร.ม.
+
+<br><br>
+
+#### Room Plan
+
+![responsive](https://sbmedia3.sbdesignsquare.com/output/images/room_page/4bb599aa70943ae8f4bfb714c0f0f17b.jpg)
