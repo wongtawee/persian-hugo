@@ -1,4 +1,4 @@
-baseURL = "Autmaster"
+baseURL = "้้้http://Autmaster.com"
 disqusShortname = ""
 draft = true
 languageCode = "en-us"
@@ -9,20 +9,21 @@ title = "Witchaya Thane"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "คอนโดมิเนียม"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "ติดต่อเรา"
-weight = 4
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
-name = "เกี่ยวกับ"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "categories/nature/"
+name = "Category"
 weight = 3
 [[menu.main]]
-URL = "/"
-name = "หน้าหลัก"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
