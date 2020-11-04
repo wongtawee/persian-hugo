@@ -1,49 +1,42 @@
 ---
-title: "Inspirational Monday: Photographing Pairs in Nature"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-3.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["inspire"]
-tags: ["new", "inspire", "nature"]
-draft: false
+title: Knightsbridge Prime
+date: 2019-05-12T12:14:34.000+06:00
+image: "/images/d1.jpg"
+author: John Doe
+description: This is meta description.
+categories:
+- วินเทจ
+tags:
+- new
+- วินเทจ
+
 ---
+#### รายละเอียดห้อง
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+![](/images/d2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Knightsbridge Prime  ขนาด 22 ตร.ม. ราคาเริ่มต้น 8,000 บาท/ตร.ม. (ราคาเฉพาะเฟอร์นิเจอร์บิลท์อิน, ที่นอนและชุดเครื่องนอน) ออกแบบและตกแต่ง "สวยคลาสสิค" ในบรรยากาศอ่อนหวานผสานความทันสมัย โดดเด่นด้วยหน้าบานสีพ่นสีขาว ดีไซน์คิ้วบัวสุดประณีต บอกเอกลักษณ์สไตล์วินเทจ สนใจตกแต่งคอนโด Condo Solutions ติดต่อที่ Line @witchaya
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+<br><br>
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+#### รายละเอียดโครงการ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+โครงการ                 Knightsbridge Prime อ่อนนุช
+
+บริษัทอสังหาฯ        บริษัท ออริจิ้น พร็อพเพอร์ตี้ จำกัด (มหาชน)
+
+สถานที่                  กรุงเทพฯ ชั้นใน
+
+สไตล์                     วินเทจ
+
+ประเภทห้อง            1 ห้องนอน
+
+ขนาดพื้นที่              20-25 ตร.ม.
+
+ราคาตกแต่ง           8,000 บาท ต่อ ตร.ม.
+
+<br><br>
+
+#### Room Plan
+
+![](/images/d3.jpg)
