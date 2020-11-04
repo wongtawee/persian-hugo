@@ -14,4 +14,4 @@ description: ''
 
 <center>Line @witchaya</center>
 
-</center>![](/images/bot.png)</center>
+<center>![](/images/bot.png)</center>
