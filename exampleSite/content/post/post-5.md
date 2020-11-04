@@ -5,9 +5,8 @@ image: "/images/e1.jpg"
 author: John Doe
 description: This is meta description.
 categories:
-- Tree
+- " ลอฟท์"
 tags:
-- tree
 - nice
 
 ---
