@@ -1,49 +1,41 @@
 ---
-title: "Writing Through The Pain"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-4.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["writing"]
-tags: ["book", "memo"]
-draft: false
+title: IDEO Mobi Sukhumvit
+date: 2019-05-12T12:14:34.000+06:00
+image: "/images/h2.jpg"
+author: John Doe
+description: This is meta description.
+categories:
+- โมเดิร์น ลักซัวร์รี่
+tags:
+- memo
+
 ---
+#### รายละเอียดห้อง
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+![](/images/h1.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+IDEO Mobi Sukhumvit 66 ขนาด 52.50 ตร.ม. ราคาเริ่มต้น 5,500 บาท/ตร.ม. (ราคาเฉพาะเฟอร์นิเจอร์บิลท์อิน, ที่นอนและชุดเครื่องนอน) ออกแบบและตกแต่ง "บอกรสนิยมมีระดับ" แบบไลฟ์สไตล์คนเมือง ให้สัมผัสอบอุ่นแต่หรูหรามีสไตล์ ด้วยการผสานสีเอิร์ธโทนเข้ากับวัสดุลายหิน ลายไม้และคริสตัลไฮกลอส สนใจตกแต่งคอนโด Condo Solutions ติดต่อที่ Line @condosolutions
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+<br><br>
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+#### รายละเอียดโครงการ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+โครงการ                IDEO Mobi Sukhumvit 
+
+บริษัทอสังหาฯ        บริษัท อนันดา ดีเวลลอปเม้นท์ จำกัด (มหาชน)
+
+สถานที่                  กรุงเทพฯ ชั้นใน
+
+สไตล์                    โมเดิร์น ลักซัวร์รี่
+
+ประเภทห้อง           1 ห้องนอน
+
+ขนาดพื้นที่             51–80 ตร.ม.
+
+ราคาตกแต่ง           5,500 บาท ต่อ ตร.ม.
+
+<br><br>
+
+#### Room Plan
+
+![responsive](https://sbmedia3.sbdesignsquare.com/output/images/room_page/4f8098e32357e6941a9adca18fa592bb.jpg)
