@@ -1,7 +1,7 @@
 ---
 title: 'Rhythm Sukhumvit '
 date: 2020-01-12T12:14:34.000+06:00
-image: "/images/mo1.jpg"
+image: "/images/mo2.jpg"
 author: John Doe
 description: This is meta description.
 categories:
@@ -10,7 +10,6 @@ tags:
 - modern
 
 ---
-## Rhythm Sukhumvit 36-38 Type 1A
 
 ![](/images/24d5adcc7e02b3535819ecbae7ab5afe.jpg)
 
