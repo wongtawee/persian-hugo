@@ -4,7 +4,7 @@ image: images/111.jpg
 description: ''
 
 ---
-## <center>บริษัท วิชญะ ดีเวลลอปเม้นท์จํากัด(มหาชน)</center>
+## ![](/images/bot.png)<center>บริษัท วิชญะ ดีเวลลอปเม้นท์จํากัด(มหาชน)</center>
 
 <center>801/11 อาคารเอ็กวายซี เซ็นเตอร์ ชั้น 11</center>
 
