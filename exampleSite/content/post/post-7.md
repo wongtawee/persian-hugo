@@ -1,49 +1,35 @@
 ---
-title: "Networks and the Nature of the Firm"
-date: 2020-01-12T12:14:34+06:00
-image: "images/post/post-6.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["nature"]
-tags: ["thumb", "video", "top"]
-draft: false
+title: 'Rhythm Sukhumvit '
+date: 2020-01-12T12:14:34.000+06:00
+image: "/images/mo1.jpg"
+author: John Doe
+description: This is meta description.
+categories:
+- modern
+tags:
+- modern
+
 ---
+## Rhythm Sukhumvit 36-38 Type 1A
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+![](/images/24d5adcc7e02b3535819ecbae7ab5afe.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+รายละเอียดห้อง
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Rhythm Sukhumvit 36-38 Type 1A คอนโด 1 Bedroom ตกแต่งเฟอร์นิเจอร์สไตล์ Modern Classic ขนาดพื้นที่ 49 ตรม. เฟอร์นิเจอร์ในห้องประกอบไปด้วย เตียง, ตู้เสื้อผ้า , โซฟา , โต๊ะกลาง , ชุดวางทีวี ของตกแต่งในห้อง มี โคมไฟ , พรม,ผ้าม่าน, วอลเปเปอร์ ไอเดียในการตกแต่งคอนโด เป็นการจัดวางเและออกแบบฟอร์นิเจอร์ในห้องเพื่อใช้งานได้อย่างเต็มพื้นที่ และสมดุลกับขนาดพื้นที่ที่จำกัด สนใจตกแต่งคอนโด Condo Solutions ติดต่อที่ Line @condosolutions
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+รายละเอียดโครงการ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+โครงการ           Rhythm Sukhumvit 36-38
+
+บริษัทอสังหาฯ   AP (Thailand)
+
+สถานที่             กรุงเทพฯ ชั้นใน
+
+สไตล์                โมเดิร์น คลาสสิก
+
+ประเภทห้อง       1 ห้องนอน
+
+ขนาดพื้นที่         36-50 ตร.ม.
+
+ราคาตกแต่ง        7,000 บาท ต่อ ตรม.
