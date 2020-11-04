@@ -5,7 +5,7 @@ image: "/images/scandi-chic.jpg"
 author: John Doe
 description: This is meta description.
 categories:
-- nature
+- Scandi Chic
 tags: []
 
 ---
