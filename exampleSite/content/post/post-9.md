@@ -1,49 +1,37 @@
 ---
-title: "Writing Through The Pain"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-4.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["Green Tree"]
-tags: ["book", "memo"]
-draft: false
+title: Regent Home Sukhumvit
+date: 2019-05-12T12:14:34.000+06:00
+image: "/images/g1.jpg"
+author: John Doe
+description: This is meta description.
+categories:
+- " โมเดิร์น ลักซัวร์รี่"
+tags:
+- Good
+
 ---
+#### รายละเอียดห้อง
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+![](/images/g2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Regent Home Sukhumvit 81 Type 1 Bedroom ตกแต่งเฟอร์นิเจอร์สไตล์ Metro Luxe ขนาดพื้นที่ 28 ตร.ม. เฟอร์นิเจอร์ในห้องประกอบไปด้วย เตียง, ตู้ข้างเตียง , ตู้เสื้อผ้า , ชุดวางทีวี , โซฟา , โต๊ะกลาง , ชุดครัว Kourmet , ของตกแต่งในห้อง มี ผ้าม่าน ,วอลล์เปเปอร์ ไอเดียในการตกแต่งคอนโด เป็นการจัดวางเฟอร์นิเจอร์เพื่อใช้งานได้คุ้มค่าสมดุลกับขนาดพื้นที่ สนใจตกแต่งคอนโด Condo Solutions ติดต่อที่ Line @witchaya
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+#### รายละเอียดโครงการ
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+โครงการ              Regent Home Sukhumvit 81
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+บริษัทอสังหาฯ     บริษัท รีเจ้นท์ กรีน เพาเวอร์ จำกัด
+
+สถานที่                กรุงเทพฯ ชั้นใน
+
+สไตล์                  โมเดิร์น ลักซัวร์รี่
+
+ประเภทห้อง        1 ห้องนอน
+
+ขนาดพื้นที่           26-35 ตร.ม.
+
+ราคาตกแต่ง         5,600 บาท ต่อ ตรม.
+
+#### Room Plan
+
+![responsive](https://sbmedia3.sbdesignsquare.com/output/images/room_page/6507433a6e3212820ec39b337a2917b7.jpg)
