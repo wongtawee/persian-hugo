@@ -1,49 +1,42 @@
 ---
-title: "Why The Giving Tree Makes You Cry"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-5.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["Tree"]
-tags: ["tree", "nice"]
-draft: false
+title: The Line
+date: 2019-05-12T12:14:34.000+06:00
+image: "/images/e1.jpg"
+author: John Doe
+description: This is meta description.
+categories:
+- Tree
+tags:
+- tree
+- nice
+
 ---
+#### รายละเอียดห้อง
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+![](/images/e2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+The Line Sukhumvit 101 ขนาด 33 ตร.ม. ราคาเริ่มต้น 6,000 บาท/ตร.ม. (ราคาเฉพาะเฟอร์นิเจอร์บิลท์อิน, ที่นอนและชุดเครื่องนอน) ออกแบบและตกแต่ง "บอกเอกลักษณ์แห่งตัวตน" สะท้อนความเท่ห์สไตล์ลอฟท์ ด้วยการตกแต่งที่เน้นเผยผิวสัมผัสของหลากวัสดุ ทั้งลายไม้ เหล็กและผ้า สนใจตกแต่งคอนโด Condo Solutions ติดต่อที่ Line @witchaya
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+<br><br>
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+#### รายละเอียดโครงการ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+โครงการ            The Line 
+
+บริษัทอสังหาฯ     Sansiri
+
+สถานที่                กรุงเทพฯ ชั้นใน
+
+สไตล์                  ลอฟท์
+
+ประเภทห้อง        1 ห้องนอน
+
+ขนาดพื้นที่           26-35 ตร.ม.
+
+ราคาตกแต่ง         6,000 บาท ต่อ ตร.ม.
+
+<br><br>
+
+#### Room Plan
+
+![responsive](https://sbmedia3.sbdesignsquare.com/output/images/room_page/2fd6a0bd1466d2da945e169d2cad516f.jpg)
